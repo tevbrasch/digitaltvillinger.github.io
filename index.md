@@ -46,4 +46,4 @@ Brukstilfellene som er gitt her kommer fra en rekke nasjonale og internasjonale 
 
 {% include_relative usecases/Katastrofeplanlegging.md %}
 
-{% include_relative usecases/Sanntids 3D kart.md %}
+{% include_relative usecases/Sanntids_3D_kart.md %}

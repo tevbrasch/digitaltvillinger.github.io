@@ -1,39 +1,49 @@
-## Welcome to GitHub Pages
+## Innsats team - Digital tvilling 
 
-You can use the [editor on GitHub](https://github.com/kartverket/digitaltvillinger.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### redaktører
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tom Ellett von Brasch
+Henrik Gulliksen Schuller
+Reidun Kittelsrud
+Boele Kuipers
+Jon Moe
+Nancy Niemann
+Per Erik Opseth
+Ivar Oveland
+Samuel Schiess
+Niels Torge Granum
 
-### Markdown
+### Abstrakt
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dette dokumentet beskriver brukstilfeller som krever anvendelse av en av flere digitale tvillinger. Det underbygger arbeidet til Kartverket Innsats-teamet med digitale tvillinger
+
+### Status av dokumentet
+
+Dokumentet er et internt dokument som inneholder informasjon som kan endres etter behov. 
+
+### Introduksjon
+
+### Deliverables
+
+#### Brukstilfeller og Krav
+
+Et dokument som beskriver omfanget av problemer som arbeidsgruppene prøver å løse (dette dokumentet).
+
+### Methodology
+
+In order to find out the requirements for the deliverables of the Working Group, use cases were collected. For the purpose of the Working Group, a use case is a story that describes challenges with respect to spatial data on the Web for existing or envisaged information systems. It does not need to adhere to certain standardized format. Use cases are primarily used as a source of requirements, but a use case could be revisited near the time the work of the Working Group will reach completion, to demonstrate that it is now possible to make the use case work.
+
+The usecases should describe problems that can either not be solved, or not be solved in an easy or effective way, by existing technologies and systems. In addition the usecases should require the need for data or services managed by Kartverket.
+The Working Group has derived requirements from the collected use cases. A requirement is something that needs to be achieved by one or more deliverables and is phrased as a specification of functionality. Requirements can lead to one or more tests that can prove whether the requirement is met.
+Care was taken to only derive requirements that are considered to in scope for the further work of the Working Group. The scope of the Working Group is determined by the charter. To help keeping the requirements in scope, the following questions were applied:
+1.	Is the requirement specifically about digital twins?
+2.	Is the use case including data published, reused, and accessible via Web technologies?
+3.	Has a use case a description that can lead to a testable requirement?
+
+### Brukstilfeller
+
+Brukstilfellene som er gitt her kommer fra en rekke nasjonale og internasjonale prosjekter, samt teoretiske brukstilfeller opprettet av medlemmer av arbeidsgruppen. I dette kapittelet er brukstilfellene oppført og identifisert og deretter koblet til et av flere krav (både funksjonelt og ikke-funksjonelt).
 
 {% include_relative usecases/Katastrofeplanlegging.md %}
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kartverket/digitaltvillinger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [katastroph](https://github.com/kartverket/digitaltvillinger.github.io/blob/main/usecases/Katastrofeplanlegging.md) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+{% include_relative usecases/Sanntids 3D kart.md %}

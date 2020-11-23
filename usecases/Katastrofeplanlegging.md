@@ -1,4 +1,4 @@
-## Katastrofeplanlegging
+# Katastrofeplanlegging
 ### Bidratt av: 
 Tom Ellett von Brasch
 ### Prosjekt: 

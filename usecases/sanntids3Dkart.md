@@ -1,4 +1,5 @@
-# Bidratt av: 
+# Sanntids 3D kart
+## Bidratt av: 
 Tom Ellett von Brasch
 ## Prosjekt: 
 http://www.ict-citypulse.eu/page/content/smart-city-use-cases-and-requirements 

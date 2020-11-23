@@ -45,5 +45,3 @@ Care was taken to only derive requirements that are considered to in scope for t
 Brukstilfellene som er gitt her kommer fra en rekke nasjonale og internasjonale prosjekter, samt teoretiske brukstilfeller opprettet av medlemmer av arbeidsgruppen. I dette kapittelet er brukstilfellene oppført og identifisert og deretter koblet til et av flere krav (både funksjonelt og ikke-funksjonelt).
 
 {% include_relative usecases/Katastrofeplanlegging.md %}
-
-{% include_relative usecases/Sanntids_3D_kart.md %}

@@ -35,6 +35,8 @@ Brukstilfellene som er gitt her kommer fra en rekke nasjonale og internasjonale 
 
 {% include_relative usecases/sanntids3Dkart.md %}
 
+{% include_relative usecases/interconnectivity.md %}
+
 
 # Krav
 

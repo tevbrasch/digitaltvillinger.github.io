@@ -1,4 +1,4 @@
-# 4.1 Katastrofeplanleggingwiuhdeiuwdew
+# 4.1 Katastrofeplanlegging
 ### Bidratt av: 
 Tom Ellett von Brasch
 ### Prosjekt: 

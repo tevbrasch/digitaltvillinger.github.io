@@ -72,33 +72,48 @@ Meteorologisk institutt, NVE, kommuner (Ålesund, Stavanger), Kystverket
 
 {% include_relative usecases/Katastrofeplanlegging.md %}
 
+
 {% include_relative usecases/sanntids3Dkart.md %}
+
 
 {% include_relative usecases/interconnectivity.md %}
 
+
 {% include_relative usecases/digital_husnummer.md %}
+
 
 {% include_relative usecases/bim_digital_kartmuseum.md %}
 
+
 {% include_relative usecases/havomraade_strandsone.md %}
+
 
 {% include_relative usecases/kommunal_planlegging.md %}
 
+
 {% include_relative usecases/vaer_og_foreforhold.md %}
+
 
 {% include_relative usecases/terrengmodell_sjo_land.md %}
 
+
 {% include_relative usecases/forsvunnede_personer.md %}
+
 
 {% include_relative usecases/kalkulere_mulighet_for_utslipp.md %}
 
+
 {% include_relative usecases/ledig_parkeringsplass.md %}
+
 
 {% include_relative usecases/byplanlegging.md %}
 
+
 {% include_relative usecases/beredskapsplanlegging.md %}
 
+
 {% include_relative usecases/ikke_gis_personer.md %}
+
 
 {% include_relative usecases/segnss.md %}
 

@@ -53,7 +53,8 @@ Kommunen ønsker å ta i bruk “veileder for arealplanleggeren - strandsonen i 
 
 Brukere kan både være privatpersoner og Norge Digitalt medlemmer som ønsker å bruke våre data i system som ikke håndterer georefererte GIS-data. Det vil derfor være fint å kunne tilby ferdige pakker for begge brukergrupper basert på hva de har tilgang til. (N-50/FKB, etc)
 
-Relaterte krav: 5.1 Sanntidslevering av store data, 5.2 Dynamiske sensor data, 5.3 Lett API, 5.5 3D data, 5.6 Felles sikkerhetslag, 5.7 Linkability, 5.8 Autoritative data, 5.11. Felles referanseramme sjø og land 
+### Relaterte krav:  
+[5.1 sanntidslevering av store data](#5.1), [5.2 Dynamiske sensor data](#5.2), [5.3 Lett API grensesnitt](#5.3), [5.5 3D data](#5.5), [5.6 Felles sikkerhetslag](#5.6), [5.7 Linkability](#5.7), [5.8 Authoritative data](#5.8), [5.11 Felles referanseramme sjø og land ](#5.11)
 
 Datakilder: Strandsonen aktualiserer behovet for felles referanseramme sjø og land, sammenstilt terrengmodell (sjø/land), N-50/FKB, ortofoto/satellittfoto, havnivåstigning, bygg (BIM-modeller vi får «låne», matrikkel, FKB), vannstand/stormflo i nær sanntid (inkl våre vannstandsmålere) og varsel fram i tid, Kobling med overvann/avrenning, og helst også elver og ferskvann. (Bølger alltid ønska). Havnedata der dette finnes, Artsdatabanken, kilder fra NVE og DSB? 
 

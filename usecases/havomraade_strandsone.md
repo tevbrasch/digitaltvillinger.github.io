@@ -20,4 +20,8 @@ Samarbeid - Meteorologisk institutt, NVE, kommuner som er i gang med digitale tv
 
 Plattform kan være via 3D geonorge https://kart.geonorge.no/3d/. Ålesund har ønsket casen i sin digitale tvilling.: Innspill fra Anne Guro, ref veileder “3D-modell i strandsonen” fra KMD. Kan også gi innspill til behovet for aut. prosessering av oppdatert kystkontur i 100m beltet - datasett “Se DOK: statlige planretningslinjer for differensiert forvaltning av strandsonen..” ikke godt oppdatert i dag, KV forvalter på vegne av . 
 ### Relaterte krav:  
-[5.1 sanntidslevering av store data](#5.1), [5.2 Dynamiske sensor data](#5.2), [5.5 3D data](#5.5), [5.6 Felles_sikkerhetslag](#5.7), [5.7 Linkability](#5.7), [5.8 Authoritative data](#5.8), [5.11 Felles_referanseramme_sjø_og_land](#5.11)
+[5.1 sanntidslevering av store data](#5.1), [5.2 Dynamiske sensor data](#5.2), [5.5 3D data](#5.5), [5.6 Felles sikkerhetslag](#5.7), [5.7 Linkability](#5.7), [5.8 Authoritative data](#5.8), [5.11 Felles referanseramme sjø og land](#5.11)
+### Datakilder:  
+Strandsonen aktualiserer behovet for felles referanseramme sjø og land , terrengmodell, havnivåstigning, vannstand flo/fjære (inkl våre vannstandsmålere), havnedata, Artsdatabanken, bygg (matrikkel, FKB, BIM) etc. 
+
+Forhold som skal hensyntas i utvikling av strandsonen, ref Mdir, nederst på denne siden er også lenker til relevante datakilder.  

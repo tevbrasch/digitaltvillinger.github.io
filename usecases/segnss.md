@@ -1,4 +1,4 @@
-# seGNSS delingsplattform
+# 4.16 seGNSS delingsplattform
 ### Bidratt av: 
 Samuel Schiess
 ### Prosjekt: 

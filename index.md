@@ -1,6 +1,6 @@
 # Innsats team - Digital tvilling 
 
-### Editors
+## Editors
 Henrik Gulliksen Schuller;
 Reidun Kittelsrud;
 Boele Kuipers;
@@ -12,36 +12,36 @@ Samuel Schiess;
 Niels Torge Granum;
 Tom Ellett von Brasch;
 
-### Abstrakt
+## Abstrakt
 
 Dette dokumentet beskriver brukstilfeller som krever anvendelse av en av flere digitale tvillinger. Det underbygger arbeidet til Kartverkets Innsats-teamet med digitale tvillinger
 
-### Status av dokumentet
+## Status av dokumentet
 
 Dokumentet er et internt dokument som inneholder informasjon som kan endres etter behov. 
 
-### 1.Introduksjon 
+## 1.Introduksjon 
 
-### 2. Metodikk
+## 2. Metodikk
 
 For å bedre forstå kravene til en digital tvilling ble brukssaker samlet inn. For arbeidsgruppens formål er et brukstilfelle en historie som beskriver utfordringer med hensyn til nye teknologier eller metoder knyttet til en digital tvilling og dens planlagte informasjonssystemer. Det trenger ikke å følge visse standardiserte format. Brukssaker brukes primært som en kilde til krav, men et brukstilfelle kan bli revidert nær det tidspunktet prosjektgruppens arbeid er ferdig, for å demonstrere at det nå er mulig å få brukstilfellet til å fungere. 
 Brukstilfellene bør beskrive problemer som enten ikke kan løses, eller ikke kan løses på en enkel eller effektiv måte, av eksisterende teknologier og systemer. I tillegg bør brukstilfellene kreve behov for data eller tjenester som forvaltes av Kartverket. 
 Arbeidsgruppen har avledet krav fra de innsamlede brukssakene. Et krav er noe som må oppnås (teoretisk eller praktisk) av prosjektet og formuleres som en spesifikasjon av funksjonalitet. Krav kan føre til en eller flere tester som kan bevise om kravet er oppfylt. 
 
 
-### 3. Brukstilfeller
+## 3. Brukstilfeller
 
 Brukstilfellene som er gitt her kommer fra en rekke nasjonale og internasjonale prosjekter, samt teoretiske brukstilfeller opprettet av medlemmer av arbeidsgruppen etter dialog med brukere. I kapittel 4 er brukstilfellene oppført og identifisert og deretter koblet til et av flere krav (både funksjonelt og ikke-funksjonelt). Innsatsteamet har valgt å sette sammen momenter fra noen av disse som vi oppfatter godt egnet for en pilot. Hensikten er å demonstrere nytteverdi av etablerte og nye geografiske data i en digital tvilling inn mot faktiske bruksformål: 
 
 ## 3.1 Pilot brukstilfelle -<beredskap og forvaltning kyst>
   
-**Komplett beskrivelse av brukstilfellet:** 
+### Komplett beskrivelse av brukstilfellet:
 
 - Kommunene i Rogaland + Ålesund ønsker å tilrettelegge for bedre beredskapsplanlegging, der de kan få et riktig sanntidsbilde og beregnet sannsynlighet for havnivå, stormflo, flomveier i bebygde områder, rasfare - de ønsker å visualisere utsatte områder, og alternative adkomster for de ulike beredskapsetatene gitt ulike scenarier. Dette er tenkt for å simulere øvelser, men også som grunnlag for å tydeliggjøre behov for tiltak som flomsikring, alternative veier/sikring av veier, avgrense bygging i utsatte områder etc. Det kan også være aktuelt å simulere hendelser som for eksempel brann ved sentrale institusjoner i kombinasjon med naturhendelser/stengt veg etc. Ulike værforhold, adkomst fra nærmeste redningshelikopter og landingsplass aktuelt. Trafikkforholdene på veiene til ulike tider på døgnet kan være avgjørende for å vurdere beste adkomst til en hendelse. Framtidsscenario inkluderer også dronetransport med medisinsk personell fra sykehuset. Noen offentlige bygg som ligger særlig utsatt til, har sensorer som registrerer antall personer som oppholder seg i bygget til enhver tid – dette er viktig informasjon for beredskapsetatene og man ønsker at de som eier byggene enkelt skal supplere med slik info og BIM-modeller (adgangsbegrenset). Løsningen skal ikke bare brukes ved øvelser og planlegging av tiltak, men også støtte en reell uttrykning ved å anbefale raskeste adkomst for den enkelte beredskapsetat, tilgjengelig på mobil/i bilen for personell. Sentrale spørsmål løsningen skal støtte for visualisering og simulering: Hva KAN skje, hva GJØR vi da, hvordan VIRKER det, hvilke UTFORDRINGER møter vi på - og hvilke TILTAK kan avhjelpe utfordringene.   
 
 - Forsvaret ønsker mulighet for detaljplanlegging for operasjoner i strandsonen, inkl. samkjøring av styrker på land og til sjøs. De trenger derfor en sammenhengende terrengmodell over sjø og land.  
 
-**Forvaltningsbehov:**
+### Forvaltningsbehov:
 
 - Kommunene har en viktig oppgave med å forvalte strandsonen og veie hensynet til utbyggingsinteresser opp mot lokale, regionale og nasjonale interesser. Strandsonen langs kysten har kvaliteter som gjør den verdifull som fellesgode for alle. Det er viktig å ta vare på disse arealene på lang sikt. I arealplanlegging og jus er begrepet strandsone ofte brukt om landbeltet 100 meter innover fra sjøen eller vassdraget.  
 
@@ -62,14 +62,14 @@ Datakilder: Strandsonen aktualiserer behovet for felles referanseramme sjø og l
 
 Forhold som skal hensyntas i utvikling av strandsonen, ref Mdir, nederst på denne siden er også lenker til relevante datakilder.   
 
-**Platform:**
+### Platform:
 visualisering kan gjøres via 3D Norge (https://kart.geonorge.no/3d/) og i samarbeid med Ålesund kommune inn i Augmentcity sin software.
 
-**Samarbeidsparter:**
+### Samarbeidsparter:
 Meteorologisk institutt, NVE, kommuner (Ålesund, Stavanger), Kystverket
 
 
-### 4. Opplisting brukstilfeller 
+## 4. Opplisting brukstilfeller 
 
 {% include_relative usecases/Katastrofeplanlegging.md %}
 

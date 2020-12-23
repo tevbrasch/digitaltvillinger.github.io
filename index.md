@@ -70,7 +70,7 @@ Meteorologisk institutt, NVE, kommuner (Ålesund, Stavanger), Kystverket
 
 ### 4. Opplisting brukstilfeller 
 
-{% include_relative usecases/Katastrofeplanlegging.md %}
+**4.1**{% include_relative usecases/Katastrofeplanlegging.md %}
 
 
 {% include_relative usecases/sanntids3Dkart.md %}
